@@ -1,0 +1,32 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 15px;
+    position: fixed;  
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+#links{
+    display: flex;
+    gap: 30px;
+}
+#links a{
+    text-decoration: none;
+    color: blue;
+}
+#links a:hover{
+    background-color: green;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px;
+}

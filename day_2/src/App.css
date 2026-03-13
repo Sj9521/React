@@ -1,0 +1,47 @@
+section {
+    padding: 100px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#home {
+    text-align: center;
+    background: #fff;
+    margin-top: 60px;
+    border-radius: 8px;
+}
+
+.btn {
+    display: inline-block;
+    background: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.skill-container span {
+    background: #2c3e50;
+    color: #fff;
+    padding: 5px 15px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+.project-card {
+    background: #fff;
+    padding: 20px;
+    border-left: 5px solid #3498db;
+    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #2c3e50;
+    color: #fff;
+}

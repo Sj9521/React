@@ -1,0 +1,41 @@
+/* *{
+    margin:0;
+    padding: 0;
+}
+#header{
+    background-color: red;
+    color:whitesmoke;
+    width:100%;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+#container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    background-color:rgba(255, 255, 255, 0.619);
+    padding: 10px;
+}
+#card{
+    width:200px;
+    padding:15px;
+    margin:10px;
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow:0px 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+    border-radius: 12px;
+}
+#card:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+ */
+
+ #style{
+    background-color: yellow;
+    padding: 5px 10px;
+ }
